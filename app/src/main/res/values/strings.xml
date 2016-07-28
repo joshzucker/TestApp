@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testapp</string>
+    <string name="Xstring">X dimention m/s2:</string>
+    <string name="Ystring">Y dimention m/s2:</string>
+    <string name="Zstring">Z dimention m/s2:</string>
+    <string name="Accelxstring"></string>
+    <string name="Accelystring"></string>
+    <string name="Accelzstring"></string>
+
+</resources>
